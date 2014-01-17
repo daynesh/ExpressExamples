@@ -1,0 +1,32 @@
+{
+  "name": "MyAlbums",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.7",
+    "jade": "*",
+    "stylus": "*",
+    "mysql": "*"
+  },
+  "description": "API for exposing MyAlbums database",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Daynesh/ExpressExamples.git"
+  },
+  "keywords": [
+    "express",
+    "node.js",
+    "node"
+  ],
+  "author": "Daynesh Mangal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Daynesh/ExpressExamples/issues"
+  },
+  "homepage": "https://github.com/Daynesh/ExpressExamples"
+}
